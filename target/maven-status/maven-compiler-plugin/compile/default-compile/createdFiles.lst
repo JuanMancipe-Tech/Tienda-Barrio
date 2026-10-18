@@ -1,0 +1,8 @@
+com\tienda\vista\VentanaInventario$1.class
+com\tienda\vista\VentanaInventario.class
+com\tienda\dao\CategoriaDAO.class
+com\tienda\conexion\Conexion.class
+com\github\juan\tienda_barrio\Tienda_Barrio.class
+com\tienda\dao\ProductoDAO.class
+com\tienda\model\Categoria.class
+com\tienda\model\Producto.class
