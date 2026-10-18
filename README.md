@@ -1,4 +1,4 @@
-# Tienda_Barrio
+## Tienda_Barrio
 
 Aplicación de escritorio desarrollada en Java con Maven, interfaz gráfica Swing y conexión a MySQL para administrar productos y categorías de una tienda.
 
