@@ -13,7 +13,7 @@ Aplicación de escritorio desarrollada en Java con Maven, interfaz gráfica Swin
 3. Abrir phpMyAdmin e importar el archivo `tienda.sql` para crear la base de datos y las tablas, si está incluido en el repositorio.
 4. Verificar la configuración de conexión a MySQL en la clase `Conexion.java`.
 5. Abrir el proyecto en NetBeans y esperar a que Maven descargue las dependencias.
-6. Ejecutar la clase `App.java` para abrir la aplicación.
+6. Ejecutar la clase `Tienda_Barrio.java` para abrir la aplicación.
 
 ## Funcionalidades
 - Consultar productos y categorías.
